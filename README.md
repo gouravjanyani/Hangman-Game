@@ -4,6 +4,6 @@ Hangman is a popular word guessing game where the player attempts to build a mis
 SETUP THE GAME CODE.
 
 Install git
-``` git  https://github.com/gouravjanyani/Hangman-Game.git ```
+``` git clone  https://github.com/gouravjanyani/Hangman-Game.git ```
 
 ``` python kbc.py ``` (to run code, you would be using python3)
